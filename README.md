@@ -23,14 +23,17 @@ This project helps users manage daily tasks efficiently.
 ---
 
 ## 📂 Project Structure
+
 project/
+
 │── READme
+
 │──index.html
+
 │── style.css
+
 │── script.js
 
-
----
 
 ## ▶️ How to Run
 1. Download or clone this repository  
@@ -41,18 +44,25 @@ project/
 
 ---
 
-## 💡 Future Improvements
+## 💡 Future Improvements 
 - 💾 Save tasks using Local Storage
 - ✏️ Edit existing tasks
 - 🌙 Dark mode support
 - 🔔 Task reminders
+- 
+---
 
-
-## ⭐ Support
-If you like this project, feel free to give it a star ⭐ — it motivates me to build more projects!
+## 📄 **License**
+This project is licensed under **No License**
 
 ---
 
-## 👨‍💻 Author
-Chaturya 
+## 👨‍💻 **Author**
+**Your Name**
+
 GitHub: https://github.com/yourusername
+
+---
+
+## ⭐ **Support**
+If you like this project, don’t forget to give it a ⭐ on GitHub. It really helps!
