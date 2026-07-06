@@ -58,9 +58,9 @@ This project is licensed under **No License**
 ---
 
 ## 👨‍💻 **Author**
-**Your Name**
+**Chaturya**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/chatzz06
 
 ---
 
